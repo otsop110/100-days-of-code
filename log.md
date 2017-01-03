@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 31, 2016
+##### I have committed to the 100 days of code challenge and will start my 100 days streak on January 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've been working on basic Adroid apps with the Android studio througout the Holidays.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** I'd love to learn more and countinue doing so every day.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: January 3, 2017, Tuesday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Learning how GitHub works with the AndroidStudio.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It was super easy to publish an Android studio projects in GitHub.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Stackoverflow discussion on how to synchronise projects to GitHub with Android Studio?](http://stackoverflow.com/questions/16644946/how-do-you-synchronise-projects-to-github-with-android-studio)
+1. [Stackoverflow discussion on How to add an Android Studio project to GitHub?](http://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github)
