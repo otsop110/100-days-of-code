@@ -14,6 +14,6 @@
 **Thoughts**: It was super easy to publish an Android studio projects in GitHub.
 
 **Link(s) to work**
-1. [Stackoverflow discussion on how to synchronise projects to GitHub with Android Studio?](http://stackoverflow.com/questions/16644946/how-do-you-synchronise-projects-to-github-with-android-studio)
+*[Stackoverflow discussion on how to synchronise projects to GitHub with Android Studio?](http://stackoverflow.com/questions/16644946/how-do-you-synchronise-projects-to-github-with-android-studio)
 
-2. [Stackoverflow discussion on How to add an Android Studio project to GitHub?](http://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github)
+*[Stackoverflow discussion on How to add an Android Studio project to GitHub?](http://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github)
