@@ -17,3 +17,12 @@
 *[Stackoverflow discussion on how to synchronise projects to GitHub with Android Studio?](http://stackoverflow.com/questions/16644946/how-do-you-synchronise-projects-to-github-with-android-studio)
 
 *[Stackoverflow discussion on How to add an Android Studio project to GitHub?](http://stackoverflow.com/questions/37093723/how-to-add-an-android-studio-project-to-github)
+
+### Day 2: January 4, 2017, Wednesday
+
+**Today's Progress**: Learning Android Basics: ArrayLists, ListViews and itemsAdapters. Following the Udacity course on Android Basics.
+
+**Thoughts**: Left the coding until the evening and got tired too soon.
+
+**Link(s) to work**
+* [Android Basics: Multi-screen Apps by google](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
