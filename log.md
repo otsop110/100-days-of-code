@@ -26,3 +26,15 @@
 
 **Link(s) to work**
 * [Android Basics: Multi-screen Apps by google](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
+
+### Day 3: January 5, 2017, Thursday
+
+**Today's Progress**: No coding.
+
+**Thoughts**: Too many other things to do. Not happy.
+
+### Day 4: January 6, 2017, Friday
+
+**Today's Progress**: Learning about Java classes.
+
+**Thoughts**: Great and valuable stuff for Android development.
