@@ -38,3 +38,18 @@
 **Today's Progress**: Learning about Java classes.
 
 **Thoughts**: Great and valuable stuff for Android development.
+
+## Day 5: January 7, 2017, Saturday
+
+**Today's Progress**: No coding.
+
+**Thoughts**: No comments.
+
+### Day 6: January 8, 2017, Sunday
+
+**Today's Progress**: Completed a project on Java classes.
+
+**Thoughts**: Complicated, but obviously these are the key concepts of the object oriented programming.
+
+**Link(s) to work**
+* [My Github repo](https://github.com/otsop110/ReportCardJavaClass)
